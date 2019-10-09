@@ -1,0 +1,26 @@
+.sar2{
+    border: 1px solid blue;
+    background-color: #F5F5F5;
+    margin-right: 70%;
+    font-size: 14px;
+        
+}
+.sar2:hover{
+    background-color: beige;
+}
+.disha{
+    font-size: 13px;
+}
+.sar3{
+    border: 1px solid blue;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+.sar1{
+    font-family: sans-serif;
+    
+}
+.sar4{
+    font-family: 'Times new roman'
+}
